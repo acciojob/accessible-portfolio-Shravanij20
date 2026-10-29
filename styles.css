@@ -1,2 +1,6 @@
-
+#profile{
+	display: flex; 
+	padding: 20px;
+	gap: 20px;
+}
 /* Your CSS Code here. */
